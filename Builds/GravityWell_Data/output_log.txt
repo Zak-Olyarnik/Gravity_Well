@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     2223 MB
+    Driver:   14.301.1019.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  4.747 seconds
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ZWO\Unity Projects\Gravity Well\Builds\GravityWell_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.880246 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.508763 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 0.302193 ms (FindLiveObjects: 0.032310 ms CreateObjectMapping: 0.037631 ms MarkObjects: 0.220848 ms  DeleteObjects: 0.011023 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.707019 ms
+
+Unloading 356 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 3.009395 ms (FindLiveObjects: 0.033450 ms CreateObjectMapping: 0.035350 ms MarkObjects: 0.194620 ms  DeleteObjects: 2.745593 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402165 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 0.383539 ms (FindLiveObjects: 0.050175 ms CreateObjectMapping: 0.037251 ms MarkObjects: 0.281667 ms  DeleteObjects: 0.013684 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.009213 ms
+
+Unloading 356 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 3.068313 ms (FindLiveObjects: 0.049035 ms CreateObjectMapping: 0.039532 ms MarkObjects: 0.220848 ms  DeleteObjects: 2.758137 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c18 -> priority: 1 
+  Thread -> id: 2dec -> priority: 1 
