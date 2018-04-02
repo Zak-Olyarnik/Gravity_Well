@@ -14,7 +14,7 @@ public class Button : MonoBehaviour
 	// switches gravity on player contact or shot
 	void OnTriggerEnter2D(Collider2D coll)
 	{
-		if ((coll.gameObject.tag == "Player" || coll.gameObject.tag == "playerShot") && !pressed)
+		if (coll.gameObject.tag == "playerShot" && !pressed)
 		{
 			gc.SwitchGravity();
 			Press();
